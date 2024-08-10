@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/quantori/static/css/main.71abcb2f.css",
+    "main.js": "/quantori/static/js/main.2d45a788.js",
+    "static/media/nophoto.jpeg": "/quantori/static/media/nophoto.7fe14f0accd9979e3303.jpeg",
+    "index.html": "/quantori/index.html",
+    "main.71abcb2f.css.map": "/quantori/static/css/main.71abcb2f.css.map",
+    "main.2d45a788.js.map": "/quantori/static/js/main.2d45a788.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.71abcb2f.css",
+    "static/js/main.2d45a788.js"
+  ]
+}
