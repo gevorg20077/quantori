@@ -1,0 +1,43 @@
+.page{
+  position: relative;
+}
+
+.page__box1{
+  width: 30%;
+  height: 600px;
+  display: inline-block;
+  background-color: rgb(97 148 139);
+}
+
+.page__box2{
+  width: 70%;
+  position: absolute;
+  top: 0;
+  display: inline-block;
+  height: 300px;
+  background-color: #9e5431;
+}
+
+.page__box3{
+  display: inline-block;
+  /* width: 576px; */
+  width: 40%;
+  height: 300px;
+  background-color: #155f4d;
+}
+
+.page__box4{
+  display: inline-block;
+  height: 300px;
+  width: 70%;
+  background-color: #a8b8b9;
+  margin-top: -4px;
+}
+
+.page__box5{
+  display: inline-block;
+  width: 30%;
+  height: 600px;
+  margin-top: -320px;
+  background-color: #f39956;
+}
